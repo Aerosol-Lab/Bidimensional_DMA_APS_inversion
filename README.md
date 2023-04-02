@@ -1,4 +1,4 @@
-# BiDimensional_TDMA_inversion
+# Bidimensional_DMA_APS_inversion
 
 ## 1. Introduction
 

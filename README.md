@@ -26,7 +26,7 @@ Then navigate to the Examples folder and run the codes.
 
 ## 3. Examples
 
-A Jupyter Notebook example to execute the code is provided in the folder [Examples](https://github.com/Aerosol-Lab/ Bidimensional_DMA_APS_inversion/tree/main/Examples).
+A Jupyter Notebook example to execute the code is provided in the folder [Examples](https://github.com/Aerosol-Lab/Bidimensional_DMA_APS_inversion/tree/main/Examples).
 
 ## 4. Documentation
 

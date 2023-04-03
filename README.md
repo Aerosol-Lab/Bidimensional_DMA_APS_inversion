@@ -34,7 +34,7 @@ More documentation including the reference article will be included later. For t
 
 ## 5. License
 
-BiDimensional_TDMA_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
+Bidimensional_DMA_APS_inversion is an open-source package, this mean you can use or modify it under the terms and conditions of the GPL-v3 licence. You should have received a copy along with this package, if not please refer to [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
 ## 6. Authors and Contact
 

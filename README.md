@@ -48,4 +48,4 @@ Bidimensional_DMA_APS_inversion is an open-source package, this mean you can use
 
 If using the codes provided in this repository for your research, please cite us:
 
-    Morán, J; et al. Powder Technology, 2023.
+[Morán, J; et al. Powder Technology, Volume 425, 1 July 2023, 118578.](https://doi.org/10.1016/j.powtec.2023.118578)
